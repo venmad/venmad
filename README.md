@@ -33,8 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venmad&layout=compact&hide=html&theme=tokyonight&line_height=27" alt="venmad"/>
 </p>
 
-<br />
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Highlighting Cursor Line and Column in Vi Editor.](https://medium.com/@venumadhav888/highlighting-cursor-line-and-column-in-vi-editor-d5584b8d2eca?source=rss-2a7de75c2e3------2)
