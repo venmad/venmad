@@ -35,8 +35,8 @@
 
 <br />
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END
 
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=venmad&show_icons=true&theme=tokyonight" alt="venmad" />
