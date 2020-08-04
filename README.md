@@ -35,7 +35,7 @@
 
 <br />
 
-### Blog posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Highlighting Cursor Line and Column in Vi Editor.](https://medium.com/@venumadhav888/highlighting-cursor-line-and-column-in-vi-editor-d5584b8d2eca?source=rss-2a7de75c2e3------2)
 - [How to Install Pycharm IDE on Centos?](https://medium.com/@venumadhav888/how-to-install-pycharm-ide-on-centos-4527be27f324?source=rss-2a7de75c2e3------2)
