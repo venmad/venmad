@@ -36,11 +36,11 @@
 <br />
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Highlighting Cursor Line and Column in Vi Editor.](https://medium.com/@venumadhav888/highlighting-cursor-line-and-column-in-vi-editor-d5584b8d2eca?source=rss-2a7de75c2e3------2)
-- [How to Install Pycharm IDE on Centos?](https://medium.com/@venumadhav888/how-to-install-pycharm-ide-on-centos-4527be27f324?source=rss-2a7de75c2e3------2)
-- [How to Install Python3 on Centos7?](https://medium.com/@venumadhav888/how-to-install-python3-on-centos7-2aba445e47e4?source=rss-2a7de75c2e3------2)
-- [How to Configure Custom Headers to the shell script files automatically?](https://medium.com/@venumadhav888/how-to-configure-custom-headers-to-the-shell-script-files-automatically-a2d53aa4d0d2?source=rss-2a7de75c2e3------2)
-- [How to send WhatsApp messages without saving the contact?](https://medium.com/@venumadhav888/how-to-send-whatsapp-messages-without-saving-the-contact-5b90d5c6d118?source=rss-2a7de75c2e3------2)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
