@@ -34,6 +34,7 @@
 </p>
 
 <br />
+<p>
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
@@ -42,7 +43,7 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
-
+</p>
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=venmad&show_icons=true&theme=tokyonight" alt="venmad" />
 </p>
