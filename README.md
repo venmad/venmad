@@ -1,4 +1,6 @@
-### Hi there, I'm Venu 👋
+<h1 align="center">Hi 👋, I'm Venu</h1>
+<h2 align="center">A Passionate Devops Engineer</h2>
+
 
 - 🔭 I’m currently working on **Kubernetes**
 - 🌱 I’m currently learning **Devops Tools**
